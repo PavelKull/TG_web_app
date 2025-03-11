@@ -42,7 +42,7 @@ export default function Form() {
                 onChange={onChangeStreet}
             />
             <select
-                classname={'select'}
+                className={'select'}
                 onChange={onChangeSuject}
                 value={suject}
             >
